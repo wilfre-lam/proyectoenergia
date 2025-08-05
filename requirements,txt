@@ -3,15 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-plotly.express 
-plotly.graph_objects
-sklearn
-StandardScaler
-MinMaxScaler
-train_test_split
-GridSearchCV
-sklearn.linear_model 
-LinearRegression
-Ridge
-Lasso
-
+plotly
+scikit-learn
