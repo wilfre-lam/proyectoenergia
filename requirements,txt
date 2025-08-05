@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-matplotlib
+matplotlib.pyplot 
 seaborn
-plotly
-sklearn
+plotly.express
+plotly.graph_objects
+owVisualizer
+datetime
 io
